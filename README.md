@@ -295,6 +295,4 @@ MIT License - feel free to use this for learning, teaching, or building upon!
 
 **Happy Learning! 🚀** 
 
-*Remember: The best way to understand neural networks is to build one from scratch.*#   M i c r o A u t o g r a d 
- 
- 
+*Remember: The best way to understand neural networks is to build one from scratch.*
